@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Website hosted on Netlify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9646c397-e9c4-4b70-9720-4d6186f009f3/deploy-status)](https://app.netlify.com/sites/dekidogs/deploys)\
+[Take a look here](https://dekidogs.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
